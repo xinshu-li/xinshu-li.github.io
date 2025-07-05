@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🙋‍♀️ About Me
 I am Xinshu Li, currently a Postdoctoral Research Fellow at Macquarie University. I received my Ph.D. in Computer Science from the University of New South Wales, Australia, under the supervision of [Prof. Lina Yao](https://www.linayao.com/). Prior to that, I obtained my M.S. and B.S. degrees from Fudan University and Zhejiang University, respectively.
 
 My research focuses on the theory and applications of causal inference, aiming to build trustworthy and generalizable AI systems. My work has been published in top-tier peer-reviewed conferences such as KDD, AAAI, ACM MM, and ICDM. I also serve as a reviewer for leading venues including NeurIPS, ICLR, CVPR, ICCV, KDD, and CIKM. I'm always open to collaborations and discussions in causal inference and trustworthy AI.
