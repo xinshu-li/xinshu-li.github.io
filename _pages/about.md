@@ -23,7 +23,7 @@ My research focuses on the theory and applications of causal inference, aiming t
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025. 
-- *2025.05*: &nbsp;🎉 I receive my Ph.D. in Computer Science from UNSW Sydney!
+- *2025.05*: &nbsp;🎉 I receive my Ph.D in Computer Science from UNSW Sydney!
 - *2025.03*: &nbsp;🎉 I join Macquarie University as a Postdoctoral Research Fellow!
 - *2024.05*: &nbsp;🎉 One paper is accepted by KDD 2024.
 - *2024.01*: &nbsp;🎉 One paper is accepted by AAAI 2024.
