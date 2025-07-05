@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-about-me'></span>
 
 # 🙋‍♀️ About Me
 I am Xinshu Li, currently a Postdoctoral Research Fellow at Macquarie University. I received my Ph.D. in Computer Science from the University of New South Wales, Australia, under the supervision of [Prof. Lina Yao](https://www.linayao.com/). Prior to that, I obtained my M.S. and B.S. degrees from Fudan University and Zhejiang University, respectively.
@@ -67,7 +67,7 @@ My research focuses on the theory and applications of causal inference, aiming t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/CITE2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[Contrastive Individual Treatment Effects Estimation](https://ieeexplore.ieee.org/abstract/document/10027640)]
+[Contrastive Individual Treatment Effects Estimation](https://ieeexplore.ieee.org/abstract/document/10027640)
 
 **Xinshu Li**, Lina Yao
 
