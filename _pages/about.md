@@ -27,6 +27,7 @@ My research focuses on the theory and applications of causal inference, aiming t
 - *2025.03*: &nbsp;🎉 I join Macquarie University as a Postdoctoral Research Fellow!
 - *2024.05*: &nbsp;🎉 One paper is accepted by KDD 2024.
 - *2024.01*: &nbsp;🎉 One paper is accepted by AAAI 2024.
+  
 # 📝 Selected Publications 
 🔍 For a full list, please visit my <i class="ai ai-google-scholar"></i> 
 <a href="https://scholar.google.com/citations?user=3nRuFcwAAAAJ&hl=en" target="_blank">Google Scholar</a>.
@@ -81,8 +82,10 @@ My research focuses on the theory and applications of causal inference, aiming t
 - *2019* First-class Scholarship for Postgraduate Students of Fudan University.
 - *2019* Outstanding Student Leader of Fudan University.
 - *2017* Member of Zhejiang University's Engineering Excellence Program.
+  
 # 💼 Work Experience
-- *2025.03 - Present*, Postdoctoral Research Fellow, School of Computing, Macquarie University, Sydney. 
+- *2025.03 - Present*, Postdoctoral Research Fellow, School of Computing, Macquarie University, Sydney.
+
 # 📖 Educations
 - *2021.08 - 2025.05*, Doctor, UNSW, Sydney. 
 - *2018.09 - 2021.01*, Master, Fudan University, Shanghai. 
@@ -95,6 +98,7 @@ My research focuses on the theory and applications of causal inference, aiming t
 # 👨‍⚖️ Professional Services
 - *Conference Reviewer*: NeurIPS, ICLR, CVPR, ICCV, KDD, CIKM, WWW, etc.
 - *Journal Reviewer*: TAI, TOSN, TALLIP, TOIS, etc.
+
 # 💻 Teaching
 ## Teaching Assistant
 - *Coding for Business*: Postgraduate Course, UNSW, Sydney.
