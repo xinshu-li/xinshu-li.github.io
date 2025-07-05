@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinshu Li (李心舒)"
-description              : #"Focusing on causal theory and applications."
+description              : "Focusing on causal theory and applications."
 repository               : "xinshu-li/xinshu-li.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinshu Li (李心舒)"
   avatar           : "images/photo.jpg"
-  bio              : "Focusing on causal theory and applications."
+  bio              : ""
   location         : "Sydney Australia"
   employer         :
   pubmed           : 
