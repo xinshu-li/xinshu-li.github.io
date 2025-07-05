@@ -52,7 +52,7 @@ My research focuses on the theory and applications of causal inference, aiming t
 [**Github**](https://github.com/xinshu-li/SDD) 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AAAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/VIV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distribution-conditioned adversarial variational autoencoder for valid instrumental variable generation](https://ojs.aaai.org/index.php/AAAI/article/download/29271/30399)
@@ -63,7 +63,7 @@ My research focuses on the theory and applications of causal inference, aiming t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/AAAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/CITE2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[Contrastive Individual Treatment Effects Estimation](https://ieeexplore.ieee.org/abstract/document/10027640)]
