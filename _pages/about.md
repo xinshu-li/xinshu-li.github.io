@@ -58,7 +58,7 @@ My research focuses on the theory and applications of causal inference, such as 
 [**Github**](https://github.com/xinshu-li/SDD) 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/VIV2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/VIV2024.png' alt="sym" class="paper-thumbnail"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distribution-conditioned adversarial variational autoencoder for valid instrumental variable generation](https://ojs.aaai.org/index.php/AAAI/article/download/29271/30399)
