@@ -23,9 +23,6 @@ I am Xinshu Li, currently a Lecturer (equivalent to Assistant Professor in North
 My research focuses on the theory and applications of causal inference, such as embodied AI, healthcare and other areas, aiming to build trustworthy and generalizable AI systems. My work has been published in top-tier peer-reviewed conferences such as KDD, AAAI, ACM MM, and ICDM. I also serve as a reviewer for leading venues including NeurIPS, ICLR, CVPR, ICCV, KDD, and CIKM. I'm always open to collaborations and discussions in causal inference and trustworthy AI.
 
 # 🔥 News
-
-<div class="news-scroll">
-  
 - *2026.02*: &nbsp;🔥 Fully funded PhD position available! Please email your CV and academic transcripts if you are interested.
 - *2026.01*: &nbsp;🎉 It's a pleasure to be appointed the Honorary Lecturer with Macquarie University!
 - *2026.01*: &nbsp;🎉 One paper is accepted by WebConf 2026.
@@ -37,7 +34,6 @@ My research focuses on the theory and applications of causal inference, such as 
 - *2024.05*: &nbsp;🎉 One paper is accepted by KDD 2024.
 - *2024.01*: &nbsp;🎉 One paper is accepted by AAAI 2024.
 
-<div class="news-scroll">
   
 # 📝 Selected Publications 
 🔍 For a full list, please visit my <i class="ai ai-google-scholar"></i> 
