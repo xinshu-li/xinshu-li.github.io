@@ -1,6 +1,22 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='-about-me'></span>
+
 
 # 🙋‍♀️ About Me
 I am Xinshu Li, currently a Lecturer (equivalent to Assistant Professor in North America) in the School of Computing Technologies at RMIT University. I completed my Ph.D. in Computer Science at the University of New South Wales under the supervision of Prof. Lina Yao, and previously received my Master’s degree from Fudan University and Bachelor’s degree from Zhejiang University. Before joining RMIT, I was a Postdoctoral Research Fellow at Macquarie University.
