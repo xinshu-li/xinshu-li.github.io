@@ -38,7 +38,7 @@ My research focuses on the theory and applications of causal inference, such as 
 🔍 For a full list, please visit my <i class="ai ai-google-scholar"></i> 
 <a href="https://scholar.google.com/citations?user=3nRuFcwAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm2025.png' alt="sym" class="paper-thumbnail"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Causality-aligned Prompt Learning via Diffusion-based Counterfactual Generation](https://dl.acm.org/doi/abs/10.1145/3746027.3755820)
@@ -48,7 +48,7 @@ My research focuses on the theory and applications of causal inference, such as 
 [**Github**]() 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/KDD2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/KDD2024.png' alt="sym" class="paper-thumbnail"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-Distilled Disentangled Learning for Counterfactual Prediction](https://dl.acm.org/doi/pdf/10.1145/3637528.3671782)
@@ -69,7 +69,7 @@ My research focuses on the theory and applications of causal inference, such as 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/CITE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/CITE2022.png' alt="sym" class="paper-thumbnail"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Contrastive Individual Treatment Effects Estimation](https://ieeexplore.ieee.org/abstract/document/10027640)
