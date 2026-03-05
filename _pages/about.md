@@ -26,18 +26,18 @@ My research focuses on the theory and applications of causal inference, such as 
 # 🔥 News
 
 <div class="news-scroll">
-  
-- *2026.02*: &nbsp;🔥 Fully funded PhD position available! Please email your CV and academic transcripts if you are interested.
-- *2026.01*: &nbsp;🎉 It's a pleasure to be appointed the Honorary Lecturer with Macquarie University!
-- *2026.01*: &nbsp;🎉 One paper is accepted by WebConf 2026.
-- *2025.12*: &nbsp;🎉 I join RMIT University as a Lecturer in the School of Computing Technologies!
-- *2025.08*: &nbsp;🎉 One paper is accepted by IEEE ICDM 2025. 
-- *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025. 
-- *2025.05*: &nbsp;🎉 I receive my Ph.D. in Computer Science from UNSW Sydney!
-- *2025.03*: &nbsp;🎉 I join Macquarie University as a Postdoctoral Research Fellow!
-- *2024.05*: &nbsp;🎉 One paper is accepted by KDD 2024.
-- *2024.01*: &nbsp;🎉 One paper is accepted by AAAI 2024.
-
+  <ul>
+    <li><b>2026.02</b>: 🔥 Fully funded PhD position available! Please email your CV and academic transcripts if you are interested.</li>
+    <li><b>2026.01</b>: 🎉 It's a pleasure to be appointed the Honorary Lecturer with Macquarie University!</li>
+    <li><b>2026.01</b>: 🎉 One paper is accepted by WebConf 2026.</li>
+    <li><b>2025.12</b>: 🎉 I join RMIT University as a Lecturer in the School of Computing Technologies!</li>
+    <li><b>2025.08</b>: 🎉 One paper is accepted by IEEE ICDM 2025.</li>
+    <li><b>2025.07</b>: 🎉 One paper is accepted by ACM MM 2025.</li>
+    <li><b>2025.05</b>: 🎉 I receive my Ph.D. in Computer Science from UNSW Sydney!</li>
+    <li><b>2025.03</b>: 🎉 I join Macquarie University as a Postdoctoral Research Fellow!</li>
+    <li><b>2024.05</b>: 🎉 One paper is accepted by KDD 2024.</li>
+    <li><b>2024.01</b>: 🎉 One paper is accepted by AAAI 2024.</li>
+  </ul>
 </div>
   
 # 📝 Selected Publications 
