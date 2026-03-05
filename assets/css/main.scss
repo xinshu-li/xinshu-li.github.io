@@ -114,3 +114,8 @@ h1:before, .anchor:before {
   object-fit: cover;
   border-radius: 6px;
 }
+.news-scroll {
+  max-height: 180px;
+  overflow-y: auto;
+  padding-right: 8px;
+}
