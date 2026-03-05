@@ -110,8 +110,10 @@ My research focuses on the theory and applications of causal inference, such as 
 
 ## Course Coordinator
 - *Further Programming*: Undergraduate Course, RMIT, Melbourne.
+
 ## Lecturer
 - *Further Programming*: Undergraduate Course, RMIT, Melbourne.
+
 ## Teaching Assistant
 - *Coding for Business*: Postgraduate Course, UNSW, Sydney.
 - *Business Analytics Methods*: Postgraduate Course, UNSW, Sydney.
