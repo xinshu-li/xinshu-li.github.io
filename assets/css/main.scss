@@ -107,3 +107,10 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.paper-thumbnail {
+  width: 260px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 6px;
+}
