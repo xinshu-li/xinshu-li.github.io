@@ -27,7 +27,8 @@ My research focuses on the theory and applications of causal inference, such as 
 
 <div class="news-scroll">
   <ul>
-    <li><b>2026.02</b>: 🔥 Fully funded PhD position available! Please email your CV and academic transcripts if you are interested.</li>
+    <li><b>2026.05</b>: 🎉 One paper is accepted by KDD 2026.</li>
+    <li><b>2026.02</b>: 🔥 Fully funded PhD position available! Please email your CV and academic transcripts if you are interested. (positions filled)</li>
     <li><b>2026.01</b>: 🎉 It's a pleasure to be appointed the Honorary Lecturer with Macquarie University!</li>
     <li><b>2026.01</b>: 🎉 One paper is accepted by WebConf 2026.</li>
     <li><b>2025.12</b>: 🎉 I join RMIT University as a Lecturer in the School of Computing Technologies!</li>
