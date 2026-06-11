@@ -115,16 +115,19 @@ My research focuses on the theory and applications of causal inference, such as 
 
 # 💻 Teaching
 
-## Course Coordinator
-- *Further Programming*: Undergraduate Course, RMIT, Melbourne.
+## RMIT University, Melbourne, Australia
 
-## Lecturer
-- *Further Programming*: Undergraduate Course, RMIT, Melbourne.
+- *Further Programming* (Undergraduate) Course Coordinator & Lecturer 2026S1
 
-## Teaching Assistant
-- *Coding for Business*: Postgraduate Course, UNSW, Sydney.
-- *Business Analytics Methods*: Postgraduate Course, UNSW, Sydney.
-- *Programming for Data Analytics*: Undergraduate Course, UNSW, Sydney.
-- *Algorithm Design and Analysis*: Undergraduate Course, Fudan University, Shanghai.
-- *Probability Theory and Mathematical Statistics*: Undergraduate Course, Fudan University, Shanghai.
-- *C++ Programming*: Undergraduate Course, Fudan University, Shanghai.
+## The University of New South Wales (UNSW), Sydney, Australia
+
+- *Coding for Business* (Postgraduate) Teaching Assistant 
+- *Business Analytics Methods* (Postgraduate) Teaching Assistant 
+- *Programming for Data Analytics* (Undergraduate) Teaching Assistant 
+
+
+## Fudan University, Shanghai, China
+
+- *Algorithm Design and Analysis* (Undergraduate) Teaching Assistant
+- *Probability Theory and Mathematical Statistics* (Undergraduate) Teaching Assistant
+- *C++ Programming* (Undergraduate) Teaching Assistant
