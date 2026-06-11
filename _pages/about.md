@@ -131,3 +131,11 @@ My research focuses on the theory and applications of causal inference, such as 
 - *Algorithm Design and Analysis* (Undergraduate) Teaching Assistant
 - *Probability Theory and Mathematical Statistics* (Undergraduate) Teaching Assistant
 - *C++ Programming* (Undergraduate) Teaching Assistant
+
+# 🎓 Supervision
+
+## Current PhD Students
+- Ziyu Yang (Since June 2026)
+- Shekhar Sharma (Since May 2026)
+- Cong Nguyen (Since Mar 2026)
+- Si Wang (Since Feb 2026)
