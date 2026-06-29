@@ -27,6 +27,8 @@ My research focuses on the theory and applications of causal inference, such as 
 
 <div class="news-scroll">
   <ul>
+    <li><b>2026.06</b>: 🎉 I’ve been invited to serve as a Workflow Chair at ACML 2026!</li>
+    <li><b>2026.06</b>: 🎉 I’ve been invited to serve as a Session Chair at The Web Conference 2026!</li>
     <li><b>2026.05</b>: 🎉 One paper is accepted by KDD 2026.</li>
     <li><b>2026.02</b>: 🔥 Fully funded PhD position available! Please email your CV and academic transcripts if you are interested. (positions filled)</li>
     <li><b>2026.01</b>: 🎉 It's a pleasure to be appointed the Honorary Lecturer with Macquarie University!</li>
@@ -46,6 +48,16 @@ My research focuses on the theory and applications of causal inference, such as 
 <a href="https://scholar.google.com/citations?user=3nRuFcwAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm2025.png' alt="sym" class="paper-thumbnail"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Causal Abstraction Learning for Multi-Modal Grounded Planning]()
+
+**Xinshu Li**, Shiyi Yang, Ziqi Xu, Feng Xia, Quan Z. Sheng, Lina Yao
+
+[**Github**]() 
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/KDD2024.png' alt="sym" class="paper-thumbnail"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Causality-aligned Prompt Learning via Diffusion-based Counterfactual Generation](https://dl.acm.org/doi/abs/10.1145/3746027.3755820)
@@ -101,7 +113,7 @@ My research focuses on the theory and applications of causal inference, such as 
 - *2025.03 - 2025.12*, Postdoctoral Research Fellow, School of Computing, Macquarie University, Sydney.
 
 # 📖 Educations
-- *2021.08 - 2025.05*, Doctor, UNSW, Sydney. 
+- *2021.08 - 2025.05*, PhD, UNSW, Sydney. 
 - *2018.09 - 2021.01*, Master, Fudan University, Shanghai. 
 - *2014.09 - 2018.07*, Bachelor, Zhejiang University, Hangzhou. 
 
@@ -135,7 +147,7 @@ My research focuses on the theory and applications of causal inference, such as 
 # 🎓 Supervision
 
 ## Current PhD Students
-- Ziyu Yang (Since June 2026)
-- Shekhar Sharma (Since May 2026)
-- Cong Nguyen (Since Mar 2026)
-- Si Wang (Since Feb 2026)
+- Ziyu Yang (Since 2026)
+- Shekhar Sharma (Since 2026)
+- Cong Nguyen (Since 2026)
+- Si Wang (Since 2026)
