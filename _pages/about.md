@@ -47,7 +47,7 @@ My research focuses on the theory and applications of causal inference, such as 
 🔍 For a full list, please visit my <i class="ai ai-google-scholar"></i> 
 <a href="https://scholar.google.com/citations?user=3nRuFcwAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/mm2025.png' alt="sym" class="paper-thumbnail"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/motivation.pdf' alt="sym" class="paper-thumbnail"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Causal Abstraction Learning for Multi-Modal Grounded Planning]()
@@ -57,7 +57,7 @@ My research focuses on the theory and applications of causal inference, such as 
 [**Github**]() 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/KDD2024.png' alt="sym" class="paper-thumbnail"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm2025.png' alt="sym" class="paper-thumbnail"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Causality-aligned Prompt Learning via Diffusion-based Counterfactual Generation](https://dl.acm.org/doi/abs/10.1145/3746027.3755820)
