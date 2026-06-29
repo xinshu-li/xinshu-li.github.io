@@ -122,8 +122,8 @@ My research focuses on the theory and applications of causal inference, such as 
 - *2022.11*, "Contrastive individual treatment effects estimation." IEEE ICDM 2022, Orlando, Florida, USA.
 
 # 🤝 Professional Services
-- *Conference Reviewer*: NeurIPS, ICLR, CVPR, ICCV, KDD, AAAI, WWW, ICDM, CIKM, etc.
-- *Journal Reviewer*: TKDE, TAI, TOSN, TALLIP, TOIS, etc.
+- *Conference Service:* Workflow Chair (ACML 2026); Session Chair (The Web Conference 2026); Reviewer (NeurIPS, ICLR, CVPR, ICCV, KDD, AAAI, WWW, ICDM, CIKM, etc.).
+- *Journal Service:* Reviewer (TKDE, TAI, TOSN, TALLIP, TOIS, etc.).
 
 # 💻 Teaching
 
