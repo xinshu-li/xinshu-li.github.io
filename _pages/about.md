@@ -25,7 +25,7 @@ My research focuses on causal inference, trustworthy AI, and foundation models, 
 
 I am always looking for highly motivated students with strong mathematical and programming skills. If you are interested in working with me, please email me with your CV, transcripts, and any previous research papers.
 
-- *To Prospective PhD/MPhil students.* I welcome PhD and MPhil students interested in pursuing research in Trustworthy AI, AI for Environmental Sustainability, and Embodied AI for their thesis. Competitive scholarships (government, university, project, and industry-funded) are available for outstanding PhD applicants.
+- *To Prospective PhD/MPhil students.* I welcome PhD and MPhil students interested in pursuing research in Trustworthy AI, AI for Environmental Sustainability, and Embodied AI for their thesis. *Competitive scholarships (government, university, project, and industry-funded) are available for outstanding PhD applicants.*
 
 - *To Monash Master by Coursework students.* I welcome Master's students interested in my research areas for their research component, particularly those considering a research career or a PhD.
 
