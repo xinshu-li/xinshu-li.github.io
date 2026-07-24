@@ -27,8 +27,8 @@ My research focuses on causal inference, trustworthy AI, and foundation models, 
 
 <div class="news-scroll">
   <ul>
-    
-    <li><b>2026.07</b>: 🎉 I join Monash University as a Lecturer in the Department of Data Science and Artificial Intelligence (DSAI), Faculty of Information Technology!</li>
+    <li><b>2026.07</b>: 🔥 Fully funded PhD position available! Please email your CV and academic transcripts if you are interested.</li>
+    <li><b>2026.07</b>: 🎉 I join Monash University as a Lecturer in the Department of DSAI, Faculty of Information Technology!</li>
     <li><b>2026.06</b>: 🎉 I’ve been invited to serve as a Workflow Chair at ACML 2026!</li>
     <li><b>2026.06</b>: 🎉 I’ve been invited to serve as a Session Chair at The Web Conference 2026!</li>
     <li><b>2026.05</b>: 🎉 One paper is accepted by KDD 2026.</li>
