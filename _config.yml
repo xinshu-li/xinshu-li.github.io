@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinshu Li (李心舒)"
-description              : "Lecturer@RMIT University."
+description              : "Lecturer@Monash University."
 repository               : "xinshu-li/xinshu-li.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "xinshu.li@rmit.edu.au"
+  email            : "xinshu.li@monash.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
