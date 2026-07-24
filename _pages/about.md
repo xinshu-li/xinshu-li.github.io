@@ -23,7 +23,7 @@ I am Xinshu Li, a Lecturer (equivalent to Assistant Professor in North America) 
 
 My research focuses on causal inference, trustworthy AI, and foundation models, with applications spanning environmental sustainability, embodied AI, healthcare, and other real-world domains. My goal is to develop trustworthy, interpretable, and generalizable AI systems that can reliably support decision-making in complex and dynamic environments. I am always happy to discuss potential collaborations and welcome opportunities to work on research related to causal inference, trustworthy AI, foundation models, and AI for environmental sustainability.
 
-I am always looking for highly self-motivated students with strong mathematical and programming skills. If you are interested in working with me, please email me with your CV, transcripts, and any previous research papers.
+I am always looking for highly self-motivated students with strong mathematical and/or programming skills. If you are interested in working with me, please email me with your CV, transcripts, and any previous research papers.
 
 - **To Prospective PhD/MPhil students.** I welcome PhD and MPhil students interested in pursuing research in Trustworthy AI, AI for Environmental Sustainability, and Embodied AI for their thesis. **Competitive scholarships (government, university, project, and industry-funded) are available for outstanding PhD applicants.**
 
