@@ -19,14 +19,16 @@ redirect_from:
 
 
 # 🙋‍♀️ About Me
-I am Xinshu Li, currently a Lecturer (equivalent to Assistant Professor in North America) in the School of Computing Technologies at RMIT University. I completed my Ph.D. in Computer Science at the University of New South Wales under the supervision of Prof. Lina Yao, and previously received my Master’s degree from Fudan University and Bachelor’s degree from Zhejiang University. Before joining RMIT, I was a Postdoctoral Research Fellow at Macquarie University.
+I am Xinshu Li, a Lecturer (equivalent to Assistant Professor in North America) in the Department of Data Science and Artificial Intelligence (DSAI), Faculty of Information Technology, Monash University. I am also a member of the Environmental Informatics Hub (EIH), where I conduct interdisciplinary research at the intersection of artificial intelligence and environmental sustainability. Before joining Monash, I was a Lecturer in the School of Computing Technologies at RMIT University. I received my Ph.D. in Computer Science from the University of New South Wales under the supervision of Prof. Lina Yao. Prior to that, I obtained my Master's degree from Fudan University and Bachelor's degree from Zhejiang University.
 
-My research focuses on the theory and applications of causal inference, such as embodied AI, healthcare and other areas, aiming to build trustworthy and generalizable AI systems. My work has been published in top-tier peer-reviewed conferences such as KDD, AAAI, ACM MM, and ICDM. I also serve as a reviewer for leading venues including NeurIPS, ICLR, CVPR, ICCV, KDD, and CIKM. I'm always open to collaborations and discussions in causal inference and trustworthy AI.
+My research focuses on causal inference, trustworthy AI, and foundation models, with applications spanning environmental sustainability, embodied AI, healthcare, and other real-world domains. My goal is to develop trustworthy, interpretable, and generalizable AI systems that can reliably support decision-making in complex and dynamic environments. I am always happy to discuss potential collaborations and welcome opportunities to work on research related to causal inference, trustworthy AI, foundation models, and AI for environmental sustainability.
 
 # 🔥 News
 
 <div class="news-scroll">
   <ul>
+    
+    <li><b>2026.07</b>: 🎉 I join Monash University as a Lecturer in the Department of Data Science and Artificial Intelligence (DSAI), Faculty of Information Technology!</li>
     <li><b>2026.06</b>: 🎉 I’ve been invited to serve as a Workflow Chair at ACML 2026!</li>
     <li><b>2026.06</b>: 🎉 I’ve been invited to serve as a Session Chair at The Web Conference 2026!</li>
     <li><b>2026.05</b>: 🎉 One paper is accepted by KDD 2026.</li>
@@ -109,7 +111,8 @@ My research focuses on the theory and applications of causal inference, such as 
 - *2017* Member of Zhejiang University's Engineering Excellence Program.
   
 # 💼 Work Experience
-- *2025.12 - Present*, Lecturer, School of Computing Technologies, RMIT University, Melbourne.
+- *2026.07 - Present*, Lecturer, Faculty of Information Technology, Monash University, Melbourne.
+- *2025.12 - 2026.07*, Lecturer, School of Computing Technologies, RMIT University, Melbourne.
 - *2025.03 - 2025.12*, Postdoctoral Research Fellow, School of Computing, Macquarie University, Sydney.
 
 # 📖 Educations
