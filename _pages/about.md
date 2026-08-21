@@ -37,6 +37,7 @@ I am always looking for highly self-motivated students with strong mathematical 
 
 <div class="news-scroll">
   <ul>
+    <li><b>2026.08</b>: 🎉 One paper is accepted by EMNLP Main Conference!</li>
     <li><b>2026.08</b>: 🎉 One paper is accepted by ACM TIST!</li>
     <li><b>2026.07</b>: 🎉 It's a pleasure to be appointed the Honorary Fellow with RMIT University!</li>
     <li><b>2026.07</b>: 🎉 I join Monash University as a Lecturer in the Department of DSAI, Faculty of Information Technology!</li>
